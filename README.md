@@ -15,9 +15,9 @@ npm install get-google-suggestions
 ## Import
 
 ```js
-import getGoogleSuggestions from 'getGoogleSuggestions'; // ES module
+import getGoogleSuggestions from 'get-google-suggestions'; // ES module
 
-const getGoogleSuggestions = require('getGoogleSuggestions'); // commonJS
+const getGoogleSuggestions = require('get-google-suggestions'); // commonJS
 ```
 
 ## Usage
