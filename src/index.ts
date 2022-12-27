@@ -10,5 +10,4 @@ async function getGoogleSuggestions(query: string): Promise<string[]> {
   return suggestions[1];
 }
 
-export default getGoogleSuggestions;
 module.exports = getGoogleSuggestions;
